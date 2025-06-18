@@ -1,36 +1,25 @@
-# waxberry-rag
+# Waxberry RAG Foundation Service
 
-#### Description
-杨梅RAG基础服务
+## 📖 Project Overview
 
-#### Software Architecture
-Software architecture description
+Waxberry RAG Foundation Service is a unified platform based on Retrieval-Augmented Generation (RAG) technology, designed to provide powerful knowledge retrieval and generation capabilities for various applications. The project adopts modern technology stack and is committed to delivering high-performance, scalable RAG service solutions.
 
-#### Installation
+## Development Plan
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- **Knowledge Base Management**: Support for importing and processing documents in multiple formats
+- **Vector Retrieval**: Intelligent retrieval based on semantic similarity
+- **Content Generation**: Intelligent content generation combined with retrieval results
+- **API Gateway**: Unified API interface and routing management
 
-#### Instructions
+## Contributing
+1. Fork this repository
+2. Create a feature branch
+3. Commit your changes
+4. Create a Pull Request
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## License
+Apache License - see the [LICENSE](LICENSE) file for details
 
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## Contact
+- Repository: [https://gitee.com/jiangxue-waxberry/waxberry-rag.git]
+- Email: [info@yangmeigongye.com] 
