@@ -21,6 +21,3 @@
 ## 许可证
 Apache License - 查看 [LICENSE](LICENSE) 文件了解详情
 
-## 联系方式
-- 项目仓库: [https://gitee.com/jiangxue-waxberry/waxberry-rag.git]
-- 邮箱: [info@yangmeigongye.com]
