@@ -20,6 +20,3 @@ Waxberry RAG Foundation Service is a unified platform based on Retrieval-Augment
 ## License
 Apache License - see the [LICENSE](LICENSE) file for details
 
-## Contact
-- Repository: [https://gitee.com/jiangxue-waxberry/waxberry-rag.git]
-- Email: [info@yangmeigongye.com] 
